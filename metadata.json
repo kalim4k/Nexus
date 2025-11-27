@@ -1,0 +1,7 @@
+{
+  "name": "Nexus AI - Multi-Agent Workspace",
+  "description": "A professional SaaS for solopreneurs to brainstorm with a team of specialized AI agents (Business, Marketing, Product). Features multi-agent debate, auto-summary, and real-time voice collaboration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
